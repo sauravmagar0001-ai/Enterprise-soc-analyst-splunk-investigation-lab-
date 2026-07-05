@@ -1,0 +1,37 @@
+<form version="1.1">
+  <label>SOC L1-to-L2 Investigation Dashboard</label>
+  <fieldset submitButton="false">
+    <input type="time" token="time_range">
+      <label>Time Range</label>
+      <default><earliest>-24h@h</earliest><latest>now</latest></default>
+    </input>
+  </fieldset>
+  <row>
+    <panel>
+      <title>Authentication Failures by User</title>
+      <chart>
+        <search><query>index=windows action=failure | timechart count by user limit=10</query><earliest>$time_range.earliest$</earliest><latest>$time_range.latest$</latest></search>
+      </chart>
+    </panel>
+    <panel>
+      <title>Top Outbound Destinations</title>
+      <table>
+        <search><query>index=firewall direction=outbound | stats count sum(bytes_out) as bytes_out by dest_ip | sort - count | head 10</query><earliest>$time_range.earliest$</earliest><latest>$time_range.latest$</latest></search>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Suspicious PowerShell</title>
+      <table>
+        <search><query>index=sysmon process_name="powershell.exe" | eval cmd=lower(command_line) | where like(cmd,"%encoded%") OR like(cmd,"% -enc %") | table _time host user parent_process command_line</query><earliest>$time_range.earliest$</earliest><latest>$time_range.latest$</latest></search>
+      </table>
+    </panel>
+    <panel>
+      <title>EDR-style Alerts by Severity</title>
+      <chart>
+        <search><query>index=edr | stats count by severity</query><earliest>$time_range.earliest$</earliest><latest>$time_range.latest$</latest></search>
+      </chart>
+    </panel>
+  </row>
+</form>

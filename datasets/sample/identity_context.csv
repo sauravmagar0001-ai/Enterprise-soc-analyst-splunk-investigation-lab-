@@ -1,0 +1,35 @@
+user,display_name,department,job_role,privilege_level,normal_country,normal_city,normal_work_start,normal_work_end,manager,account_status,mfa_enabled
+sjenkins,Sarah Jenkins,IT Helpdesk,IT Support Specialist,Local Admin,US,New York,08:00,17:00,Tom Davis,Active,True
+tdavis,Tom Davis,IT Operations,Domain Administrator,Domain Admin,US,New York,08:00,18:00,IT Director,Active,True
+jdoe,John Doe,Finance,Financial Analyst,Standard User,US,New York,09:00,17:00,Financial Controller,Active,True
+mross,Mike Ross,Legal,Compliance Officer,Standard User,US,New York,09:00,17:00,General Counsel,Active,True
+user010,User 010,Legal,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user011,User 011,Sales,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user012,User 012,Sales,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user013,User 013,Engineering,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user014,User 014,Human Resources,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user015,User 015,Finance,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user016,User 016,Human Resources,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user017,User 017,Human Resources,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user018,User 018,Legal,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user019,User 019,Engineering,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user020,User 020,Finance,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user021,User 021,Legal,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user022,User 022,Engineering,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user023,User 023,Engineering,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user024,User 024,Engineering,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user025,User 025,Sales,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user026,User 026,Finance,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user027,User 027,Engineering,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user028,User 028,Finance,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user029,User 029,Operations,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user030,User 030,Engineering,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user031,User 031,Sales,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user032,User 032,Engineering,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user033,User 033,Human Resources,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user034,User 034,Human Resources,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user035,User 035,Operations,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True
+user036,User 036,Human Resources,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user037,User 037,Sales,Staff Associate,Standard User,US,Boston,09:00,17:00,Team Manager,Active,True
+user038,User 038,Legal,Staff Associate,Standard User,US,New York,09:00,17:00,Team Manager,Active,True
+user039,User 039,Engineering,Staff Associate,Standard User,US,Chicago,09:00,17:00,Team Manager,Active,True

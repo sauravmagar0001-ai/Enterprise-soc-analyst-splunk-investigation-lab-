@@ -1,0 +1,51 @@
+_time,host,user,event_id,process_id,parent_process_id,parent_process,process_name,command_line,current_directory,hash_sha256,integrity_level
+2026-07-01T00:01:04Z,SOC-WKS-021,user018,1,8110,488,C:\Windows\System32\msedge.exe,msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process",<LOCAL_PATH>
+2026-07-01T00:01:18Z,SOC-WKS-015,user011,1,2524,990,C:\Windows\System32\services.exe,cmd.exe,cmd.exe /c echo KeepAlive,<LOCAL_PATH>
+2026-07-01T00:01:41Z,SOC-WKS-018,tdavis,1,8617,894,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:02:48Z,SOC-DC-01,jdoe,1,1396,983,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:03:11Z,SOC-WKS-022,user012,1,5825,649,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:05:19Z,SOC-WKS-011,user021,1,9378,297,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:06:08Z,SOC-WKS-013,user011,1,5789,787,C:\Windows\System32\services.exe,cmd.exe,cmd.exe /c echo KeepAlive,<LOCAL_PATH>
+2026-07-01T00:07:17Z,SOC-SRV-SQL01,mross,1,6850,934,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:10:08Z,SOC-SRV-SQL01,user016,1,1555,719,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:12:19Z,SOC-WKS-024,sjenkins,1,9393,944,C:\Windows\System32\services.exe,cmd.exe,cmd.exe /c echo KeepAlive,<LOCAL_PATH>
+2026-07-01T00:13:36Z,SOC-WKS-010,jdoe,1,6389,201,C:\Windows\System32\services.exe,cmd.exe,cmd.exe /c echo KeepAlive,<LOCAL_PATH>
+2026-07-01T00:13:53Z,SOC-WKS-010,user016,1,9185,837,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:19:49Z,SOC-SRV-SQL01,sjenkins,1,3323,369,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:20:15Z,SOC-SRV-APP01,user016,1,3820,143,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:20:31Z,SOC-WKS-011,jdoe,1,8135,893,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:23:48Z,SOC-DC-01,user018,1,3353,186,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:25:36Z,SOC-WKS-018,user023,1,2207,659,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:26:37Z,SOC-SRV-APP01,user021,1,7836,574,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:31:25Z,SOC-WKS-010,user015,1,5549,333,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:31:32Z,SOC-WKS-024,user018,1,8244,721,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:31:42Z,SOC-WKS-023,user017,1,2392,478,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:33:14Z,SOC-SRV-SQL01,user013,1,8360,344,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:35:37Z,SOC-WKS-015,user013,1,7279,308,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:35:51Z,SOC-WKS-012,user018,1,6877,657,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:36:27Z,SOC-WKS-010,user017,1,9652,792,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:38:02Z,SOC-WKS-022,user016,1,6317,209,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:39:03Z,SOC-DC-01,user014,1,5971,555,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:40:27Z,SOC-WKS-015,user018,1,6351,727,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:41:02Z,SOC-WKS-023,user019,1,9004,910,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:41:31Z,SOC-WKS-021,user014,1,6314,116,C:\Windows\System32\msedge.exe,msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process",<LOCAL_PATH>
+2026-07-01T00:41:34Z,SOC-SRV-SQL01,tdavis,1,7341,352,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:42:45Z,SOC-WKS-018,user023,1,1657,304,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:44:36Z,SOC-WKS-020,tdavis,1,3511,320,C:\Windows\System32\services.exe,cmd.exe,cmd.exe /c echo KeepAlive,<LOCAL_PATH>
+2026-07-01T00:49:06Z,SOC-WKS-012,user020,1,3324,382,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:49:14Z,SOC-WKS-084,user017,1,9207,631,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:49:39Z,SOC-WKS-021,user011,1,2057,162,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:51:08Z,SOC-WKS-084,user013,1,3901,482,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:51:57Z,SOC-WKS-023,user024,1,2136,276,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:56:02Z,SOC-SRV-SQL01,user010,1,6027,481,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:56:30Z,SOC-SRV-SQL01,user010,1,1761,652,C:\Windows\System32\msedge.exe,msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process",<LOCAL_PATH>
+2026-07-01T00:56:44Z,SOC-WKS-012,user020,1,6795,633,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
+2026-07-01T00:57:22Z,SOC-WKS-018,sjenkins,1,8113,449,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T00:57:31Z,SOC-WKS-019,user020,1,5612,500,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T00:57:44Z,SOC-SRV-SQL01,user019,1,7388,532,C:\Windows\System32\msedge.exe,msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process",<LOCAL_PATH>
+2026-07-01T00:58:11Z,SOC-WKS-011,jdoe,1,1481,700,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T00:58:14Z,SOC-SRV-APP01,mross,1,7433,394,C:\Windows\System32\explorer.exe,explorer.exe,C:\Windows\explorer.exe,<LOCAL_PATH>
+2026-07-01T00:59:51Z,SOC-WKS-013,user020,1,7693,911,C:\Windows\System32\services.exe,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p,C:\Windows\system32,a8282fe49d72475983e31cab3de19875aa1b1ed2c44fb58b0efcd3cf9f744c91,System
+2026-07-01T01:02:14Z,SOC-WKS-012,user010,1,3255,612,C:\Windows\System32\svchost.exe,powershell.exe,"powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Get-Date""",<LOCAL_PATH>
+2026-07-01T01:03:26Z,SOC-WKS-020,user024,1,1213,759,C:\Windows\System32\explorer.exe,outlook.exe,"""C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE""",<LOCAL_PATH>
+2026-07-01T01:03:38Z,SOC-WKS-011,user015,1,7797,943,C:\Windows\System32\chrome.exe,chrome.exe,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=renderer",<LOCAL_PATH>
