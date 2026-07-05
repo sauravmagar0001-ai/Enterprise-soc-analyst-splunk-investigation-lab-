@@ -1,0 +1,51 @@
+_time,message_id,sender,sender_domain,sender_ip,recipient,subject,url,attachment_name,attachment_hash,verdict,action,delivery_status
+2026-07-01T00:02:35Z,MSG-23361,sender17@cisco.com,cisco.com,192.0.2.109,user016@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T00:05:08Z,MSG-90880,sender10@gmail.com,gmail.com,192.0.2.250,user026@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T00:09:24Z,MSG-56221,sender19@github.com,github.com,192.0.2.248,user025@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T00:17:27Z,MSG-15283,sender36@cisco.com,cisco.com,192.0.2.197,user020@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T00:30:49Z,MSG-29546,sender12@aws.amazon.com,aws.amazon.com,192.0.2.34,user028@soc-lab.local,Support ticket #44321,,,,Clean,delivered,Success
+2026-07-01T00:32:01Z,MSG-33650,sender32@microsoft.com,microsoft.com,192.0.2.119,user029@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T00:42:53Z,MSG-83453,sender48@aws.amazon.com,aws.amazon.com,192.0.2.77,user016@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T00:43:49Z,MSG-66239,sender8@gmail.com,gmail.com,192.0.2.156,user018@soc-lab.local,Support ticket #44321,,,,Clean,delivered,Success
+2026-07-01T00:45:03Z,MSG-93494,sender34@aws.amazon.com,aws.amazon.com,192.0.2.159,user014@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T00:49:39Z,MSG-94033,sender38@github.com,github.com,192.0.2.153,user028@soc-lab.local,Support ticket #44321,,,,Clean,delivered,Success
+2026-07-01T00:56:28Z,MSG-68044,sender40@gmail.com,gmail.com,192.0.2.122,user024@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T01:08:35Z,MSG-69078,sender18@microsoft.com,microsoft.com,192.0.2.133,user015@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T01:11:15Z,MSG-48144,sender47@news.com,news.com,192.0.2.201,user023@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T01:25:32Z,MSG-21356,sender23@microsoft.com,microsoft.com,192.0.2.68,mross@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T01:39:37Z,MSG-96876,sender34@gmail.com,gmail.com,192.0.2.148,user010@soc-lab.local,System maintenance schedule,,,,Clean,delivered,Success
+2026-07-01T01:39:43Z,MSG-90155,sender36@microsoft.com,microsoft.com,192.0.2.157,user020@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T01:59:08Z,MSG-40273,sender19@gmail.com,gmail.com,192.0.2.248,user011@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T02:03:05Z,MSG-20704,sender48@gmail.com,gmail.com,192.0.2.166,jdoe@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T02:04:25Z,MSG-99003,sender47@aws.amazon.com,aws.amazon.com,192.0.2.207,tdavis@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T02:05:42Z,MSG-93196,sender50@github.com,github.com,192.0.2.104,user021@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T02:08:03Z,MSG-82571,sender39@gmail.com,gmail.com,192.0.2.147,user017@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T02:10:57Z,MSG-82794,sender14@github.com,github.com,192.0.2.29,user018@soc-lab.local,System maintenance schedule,,,,Clean,delivered,Success
+2026-07-01T02:13:31Z,MSG-43799,sender44@aws.amazon.com,aws.amazon.com,192.0.2.136,user019@soc-lab.local,System maintenance schedule,,,,Clean,delivered,Success
+2026-07-01T02:14:12Z,MSG-80133,sender6@github.com,github.com,192.0.2.34,user024@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T02:16:48Z,MSG-45523,sender38@news.com,news.com,192.0.2.139,user023@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T02:17:32Z,MSG-91207,sender12@microsoft.com,microsoft.com,192.0.2.187,user011@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T02:31:58Z,MSG-20196,sender16@microsoft.com,microsoft.com,192.0.2.11,user028@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T02:32:53Z,MSG-11724,sender14@news.com,news.com,192.0.2.114,user029@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T02:40:17Z,MSG-39349,sender12@gmail.com,gmail.com,192.0.2.215,user024@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T02:41:45Z,MSG-77885,sender7@cisco.com,cisco.com,192.0.2.95,mross@soc-lab.local,System maintenance schedule,,,,Clean,delivered,Success
+2026-07-01T03:10:21Z,MSG-66577,sender17@news.com,news.com,192.0.2.187,user013@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T03:16:20Z,MSG-27933,sender50@microsoft.com,microsoft.com,192.0.2.10,user010@soc-lab.local,Weekly status update,,,,Clean,delivered,Success
+2026-07-01T03:19:06Z,MSG-75704,sender42@aws.amazon.com,aws.amazon.com,192.0.2.78,user016@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T03:19:47Z,MSG-59911,sender7@news.com,news.com,192.0.2.127,user026@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T03:22:49Z,MSG-44765,sender2@news.com,news.com,192.0.2.44,user025@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T03:28:20Z,MSG-61308,sender22@github.com,github.com,192.0.2.117,user026@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T03:31:47Z,MSG-36503,sender1@cisco.com,cisco.com,192.0.2.25,user016@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T03:32:47Z,MSG-54231,sender34@cisco.com,cisco.com,192.0.2.129,tdavis@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T03:36:35Z,MSG-94401,sender36@cisco.com,cisco.com,192.0.2.78,user022@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T03:43:56Z,MSG-17239,sender19@cisco.com,cisco.com,192.0.2.68,user027@soc-lab.local,Lunch menu options,,,,Clean,delivered,Success
+2026-07-01T03:44:17Z,MSG-60606,sender19@microsoft.com,microsoft.com,192.0.2.99,user013@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T03:49:32Z,MSG-59636,sender35@gmail.com,gmail.com,192.0.2.74,user014@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T03:54:05Z,MSG-82964,sender11@news.com,news.com,192.0.2.134,sjenkins@soc-lab.local,System maintenance schedule,,,,Clean,delivered,Success
+2026-07-01T03:57:34Z,MSG-51023,sender8@github.com,github.com,192.0.2.203,user021@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T04:04:09Z,MSG-63378,sender1@microsoft.com,microsoft.com,192.0.2.139,mross@soc-lab.local,Invoice pending payment,,,,Clean,delivered,Success
+2026-07-01T04:12:49Z,MSG-18878,sender4@gmail.com,gmail.com,192.0.2.45,user022@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T04:13:14Z,MSG-45744,sender21@news.com,news.com,192.0.2.154,mross@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success
+2026-07-01T04:15:43Z,MSG-12133,sender10@microsoft.com,microsoft.com,192.0.2.4,user022@soc-lab.local,Benefits enrollment update,,,,Clean,delivered,Success
+2026-07-01T04:18:30Z,MSG-66497,sender26@news.com,news.com,192.0.2.234,user025@soc-lab.local,Support ticket #44321,,,,Clean,delivered,Success
+2026-07-01T04:20:12Z,MSG-10989,sender37@github.com,github.com,192.0.2.22,user016@soc-lab.local,Corporate newsletter - July 2026,,,,Clean,delivered,Success

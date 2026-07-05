@@ -1,0 +1,58 @@
+ioc_value,ioc_type,classification,confidence,source,first_seen,last_seen,notes
+securityupdate.soc-lab.example,domain,SYNTHETIC_PHISHING,High,OSINT-PhishFeed,2026-06-30T12:00:00Z,2026-07-01T15:00:00Z,Simulated spear phishing target look-alike
+198.51.100.45,ip,SYNTHETIC_PHISHING,High,OSINT-PhishFeed,2026-06-30T12:00:00Z,2026-07-01T15:00:00Z,Simulated web server hosting credential harvest page
+c2.soc-lab.example,domain,SYNTHETIC_C2,High,OSINT-C2List,2026-06-29T10:00:00Z,2026-07-01T16:00:00Z,Simulated beaconing C2 channel
+203.0.113.88,ip,SYNTHETIC_C2,High,OSINT-C2List,2026-06-29T10:00:00Z,2026-07-01T16:00:00Z,Simulated command and control node IP
+192.0.2.44,ip,SYNTHETIC_MALICIOUS,Medium,GeoBlock-List,2026-06-01T00:00:00Z,2026-07-01T23:59:00Z,Anomalous geographic login origin IP
+192.0.2.88,ip,SYNTHETIC_TOR_CLASSIFIED,High,OSINT-TorNodes,2026-06-20T00:00:00Z,2026-07-01T23:59:00Z,Confirmed active synthetic TOR exit node
+a3f89e2c4d5b6a7e8f90a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2,sha256,SYNTHETIC_MALICIOUS,High,OSINT-MalwareHashes,2026-07-01T00:00:00Z,2026-07-01T23:59:00Z,Simulated update_patch.exe credential access hash
+198.51.100.100,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.101,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.102,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.103,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.104,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.105,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.106,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.107,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.108,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.109,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.110,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.111,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.112,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.113,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.114,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.115,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.116,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.117,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.118,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.119,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.120,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.121,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.122,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.123,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.124,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.125,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.126,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.127,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.128,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.129,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.130,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.131,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.132,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.133,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.134,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.135,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.136,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.137,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.138,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.139,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.140,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.141,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.142,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.143,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.144,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.145,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.146,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.147,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.148,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
+198.51.100.149,ip,UNKNOWN,Low,OSINT-GeneralNoise,2026-05-01T00:00:00Z,2026-06-01T00:00:00Z,Benign lookup query placeholder
